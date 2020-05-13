@@ -3,8 +3,7 @@ https://www.ifpb.edu.br/assuntos/coronavirus UTF-8
 <div id="parent-fieldname-text">{%}</div>
 
 
-<p class=" ">{*}href={%}class="summary url">{%}</a></p>
-
+<p class=" ">{*}href="{%}"{*}>{%}</a></p>
 
 Coronoa no IFPB
 
