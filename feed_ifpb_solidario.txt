@@ -1,0 +1,10 @@
+https://www.ifpb.edu.br/ifpb-solidario/ UTF-8
+<div class="tile tile-default" data-tile="@@banner_rotativo/bd9d66112bd74165b2e066d6d5b96fc9" id="bd9d66112bd74165b2e066d6d5b96fc9">{%}</div>
+<a href="{%}"{*} <img src="{%}"{*}alt="{%}"{*}</a>
+ 
+ IFPB Solidário
+ https://www.ifpb.edu.br/ifpb-solidario/
+ Noticias relacionadas ao IFPB solidário
+ {%3}
+ {%1}
+ {%2}
