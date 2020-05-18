@@ -1,0 +1,13 @@
+https://www.saude.gov.br/noticias UTF-8
+
+<div class="tileItem">{*}<a href="{%}">{%}{*}</a>
+
+rssminsaude
+
+https://www.saude.gov.br/noticias
+
+Últimas notícias do ministério da saúde
+
+{%2}
+
+{%1}
