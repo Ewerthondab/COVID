@@ -1,0 +1,10 @@
+https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/noticias UTF-8
+<div id="content">{%}
+<img src="{%}"{*}<a class="summary url" href={%} title="collective.nitf.content">{%}</a>
+Sala de Imprensa — Governo da Paraíba
+https://paraiba.pb.gov.br/diretas/saude/coronavirus/noticias/noticias
+Sala de Imprensa — Governo da Paraíba
+{%3}
+{%2}
+<img src = {%1}>
+https://feed43.com/rsssaudepbimg.xml
